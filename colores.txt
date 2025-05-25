@@ -2,3 +2,5 @@ Rojo
 Azul
 Verde
 Marrón
+Lila
+Negro
